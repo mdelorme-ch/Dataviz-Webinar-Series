@@ -8,13 +8,13 @@ const mapData = [
     },
     {
         src: 'maps/Image2.png',
-        title: 'Day 02: Lines',
+        title: 'Iceland & its glaciers',
         alt: 'A basemap of the coast of Belgium with the track of the Kusttram as a line and the stops as points.',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             },
     {
         src: 'maps/Image3.png',
-        title: 'Day 03: Polygons',
+        title: 'Sea Surface Temperature',
         alt: 'A map of Cologne showing the walking duration to the next REWE supermarket using areas - called isochrones - with different colours. It shows the locations of 85 REWE supermarkets in Cologne. For a significant proportion of the area, the next supermarket is within 15 minutes walking distance. ',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             },
