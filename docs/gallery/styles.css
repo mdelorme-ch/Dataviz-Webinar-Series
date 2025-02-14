@@ -224,7 +224,6 @@
     font-size: 170%
   }
 
-<style>
   .footer {
     background-color: #1f2937;
     padding: 1.5rem;
@@ -268,4 +267,3 @@
   @media (min-width: 1280px) {
     .footer-image { max-width: 96rem; }
   }
-</style>
