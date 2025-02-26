@@ -267,5 +267,5 @@
     .footer-image { max-width: 64rem; }
   }
   @media (min-width: 1280px) {
-    .footer-image { max-width: 96rem; }
+    .footer-image { max-width: 60rem; }
   }
