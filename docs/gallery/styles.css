@@ -225,31 +225,17 @@
     font-size: 170%
   }
 
- .footer {
+.footer {
   background-color: #ffffff;
-  padding: 1.5rem;
-  color: white;
+  padding: 2vh; /* Responsive padding based on viewport height */
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   width: 100%;
   max-width: 100%;
   overflow: hidden;
-}
-
-.footer-content {
-  margin-bottom: 1rem;
-  text-align: center;
-}
-
-.footer-title {
-  font-size: 1.25rem;
-  font-weight: 600;
-}
-
-.footer-text {
-  font-size: 0.875rem;
+  min-height: 5vh; /* Ensures the footer doesn’t get too small */
+  max-height: 20vh; /* Caps the height so it doesn't get too large */
 }
 
 .footer-logo {
@@ -261,22 +247,22 @@
 .footer-image {
   height: auto;
   width: auto;
-  max-width: 20rem; /* Default size for small screens */
+  max-width: 15rem; /* Smaller size for small screens */
   object-fit: contain;
 }
 
 @media (min-width: 640px) {
-  .footer-image { max-width: 36rem; }
+  .footer-image { max-width: 30rem; }
 }
 
 @media (min-width: 768px) {
-  .footer-image { max-width: 42rem; }
+  .footer-image { max-width: 35rem; }
 }
 
 @media (min-width: 1024px) {
-  .footer-image { max-width: 64rem; }
+  .footer-image { max-width: 50rem; }
 }
 
 @media (min-width: 1280px) {
-  .footer-image { max-width: 60rem; }
+  .footer-image { max-width: 55rem; }
 }
