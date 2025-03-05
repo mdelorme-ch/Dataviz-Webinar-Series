@@ -20,7 +20,7 @@
   /* Rest of the styles */
   
   body {
-    background-color: #f5f5f5;
+    background-color: #283357;
     color: #333;
     font-family: 'Lato', sans-serif;
     color: #0B6192;
@@ -36,7 +36,7 @@
     width: 100%;
     padding: 20px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #283357;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
   }
@@ -87,7 +87,7 @@
     padding: 20px;
     width: 90%;
     max-width: 1200px;
-    background-color: #ffffff;
+    background-color: #283357;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
   }
@@ -226,7 +226,7 @@
   }
 
 .footer {
-  background-color: #ffffff;
+  background-color: #283357;
   padding: 2vh; /* Responsive padding based on viewport height */
   display: flex;
   align-items: center;
