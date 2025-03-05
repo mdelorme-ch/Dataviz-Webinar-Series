@@ -60,6 +60,34 @@ header h1 {
     color: #ffffff;
 }
 
+/* Gallery Fix */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    padding: 20px;
+    width: 90%;
+    max-width: 1200px;
+    background-color: rgba(255, 255, 255, 0.1); /* Light background for contrast */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(255, 255, 255, 0.3);
+}
+
+/* Footer Fix */
 .footer {
     background-color: #27384B;
     padding: 1vh; /* Reduced padding for smaller size */
@@ -103,4 +131,3 @@ header h1 {
 @media (min-width: 1280px) {
     .footer-image { max-width: 30rem; }
 }
-
