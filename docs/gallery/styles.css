@@ -50,6 +50,26 @@
     text-transform: none;
     line-height: 1.2;
   }
+ header h2 {
+    font-size: 1rem;
+    color: #ffffff;
+    margin: 0;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: none;
+    line-height: 1.2;
+  }
+.logo-container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.dataviz-logo {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
   .main-text {
     width: 90%;
