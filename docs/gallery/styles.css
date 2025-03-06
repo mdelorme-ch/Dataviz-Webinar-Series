@@ -74,7 +74,7 @@ header h2 {
 
 /* Logo Styling */
 .dataviz-logo {
-    max-width: 200px; /* Adjust based on design preference */
+    max-width: 100px; /* Adjust based on design preference */
     height: auto;
     display: block;
 }
