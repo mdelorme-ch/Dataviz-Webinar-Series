@@ -288,7 +288,7 @@ header h2 {
 }
 
 @media (min-width: 1024px) {
-  .footer-image { max-width: 50rem; }
+  .footer-image { max-width: 25rem; }
 }
 
 @media (min-width: 1280px) {
