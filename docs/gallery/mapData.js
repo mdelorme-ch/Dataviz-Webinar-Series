@@ -9,7 +9,7 @@ const mapData = [
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Video1.gif',
         title: 'Global Shipping Traffic Density by Julian Hoffmann Anton',
         alt: 'Global Shipping Traffic Density by Julian Hoffmann Anton',
-        description: 'This is an experimental visualisation made in Blender with all observed ship movement from 2015-2020, at 500 m resolution from IMF's World Seaborne Trade Monitoring System & also NASA‘s Black Marble satellite imagery. Oceans and seas are transparent, creating a unique view that includes the other side of the globe.',
+        description: 'This is an experimental visualisation made in Blender with all observed ship movement from 2015-2020, at 500 m resolution from IMF\'s World Seaborne Trade Monitoring System & also NASA\'s Black Marble satellite imagery. Oceans and seas are transparent, creating a unique view that includes the other side of the globe.',
         },
     {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Image3.png',
