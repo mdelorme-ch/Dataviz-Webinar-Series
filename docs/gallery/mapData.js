@@ -1,6 +1,6 @@
 const mapData = [
     {
-        src: 'https://mdelorme-ch.github.io/gallery/maps/Image2.png',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Image2.png',
         title: 'Iceland & its glaciers by Julian Hoffmann Anton',
         alt: 'Iceland & its glaciers by Julian Hoffmann Anton',
         description: 'An experimental and creative map of Iceland with its 2019 main glacier contours. Render and viewport displays in Blender.',
@@ -12,7 +12,7 @@ const mapData = [
         description: 'This is an experimental visualisation made in Blender with all observed ship movement from 2015-2020, at 500 m resolution from IMF's World Seaborne Trade Monitoring System & also NASA‘s Black Marble satellite imagery. Oceans and seas are transparent, creating a unique view that includes the other side of the globe.',
         },
     {
-        src: 'https://mdelorme-ch.github.io/gallery/maps/Image3.png',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Image3.png',
         title: 'Sea Surface Temperature by Chiara Phillips',
         alt: 'Sea Surface Temperature by Chiara Phillips',
         description: 'Because the earth is a globe, maps have to distort the earth in some way to be presented on a 2D surface. Each of these "ways of distorting" are what we GIS-folk call "map projections". The projection shown here is the Spilhaus Projection, which is handy for seeing all of the world's oceans (ocean?) in one place. I love that this projection forces us to realize how connected the oceans really are. I created this map as part of the 2023 #30daymapchallenge.',
@@ -33,7 +33,7 @@ const mapData = [
         },    
 
 {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice-area.gif?',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice-area.gif',
         title: 'Arctic Sea Ice Extent by Lisa Kalacheva',
         alt: 'Arctic Sea Ice Extent by Lisa Kalacheva',
         description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
