@@ -29,7 +29,6 @@
         lightboxTitle.innerText = map.title;
         lightboxDescription.innerHTML = map.description;
         currentIndex = index;
-        updateToolsUsed(map.tools);
       });
     });
   
@@ -71,26 +70,7 @@
       lightboxImg.alt = map.alt;
       lightboxTitle.innerText = map.title;
       lightboxDescription.innerText = map.description;
-      updateToolsUsed(map.tools);
     }
-  
-    // Function to dynamically update tools used section
-    function updateToolsUsed(tools) {
-      toolsUsedContainer.innerHTML = '<div class="tools-list"></div>';
-      const toolsList = toolsUsedContainer.querySelector('.tools-list');
-  
-      for (let tool in tools) {
-        const toolItem = document.createElement('div');
-        toolItem.classList.add('tool-item');
-  
-        const toolIcon = document.createElement('span');
-        toolIcon.classList.add('tool-icon', tools[tool] ? 'filled' : 'hollow');
-        toolIcon.innerHTML = tools[tool] ? '&#9635;' : '&#9634;';
-  
-        toolItem.appendChild(toolIcon);
-        toolItem.append(` ${tool}`);
-        toolsList.appendChild(toolItem);
-      }
     }
   });
   
