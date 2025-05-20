@@ -26,7 +26,7 @@ const mapData = [
         },
 
     {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Sea_surface_wind.gif',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Sea_surface_wind.mp4',
         title: 'Global Ocean Sea Surface Wind by Julian Hoffmann Anton',
         alt: 'Global Ocean Sea Surface Wind by Julian Hoffmann Anton',
         description: 'Sea Surface Wind: January 10-12th 2025. Exploring innovative ways to display climate data of our beautiful planet.',
