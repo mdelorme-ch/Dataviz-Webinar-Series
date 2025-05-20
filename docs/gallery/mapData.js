@@ -23,14 +23,7 @@ const mapData = [
         title: '2024 Spring Phytoplankton Bloom in North Atlantic by Chiara Phillips',
         alt: '2024 Spring Phytoplankton Bloom in North Atlanticby Chiara Phillips',
         description: 'With the arrival of spring in the North Atlantic, longer days, calmer seas and nutriens stirred up by winter storms fuel massive phytoplankton blooms that spark a cascade of ocean life.',
-        },
-
-    {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Sea_surface_wind.mp4',
-        title: 'Global Ocean Sea Surface Wind by Julian Hoffmann Anton',
-        alt: 'Global Ocean Sea Surface Wind by Julian Hoffmann Anton',
-        description: 'Sea Surface Wind: January 10-12th 2025. Exploring innovative ways to display climate data of our beautiful planet.',
-        },    
+        },   
 
 {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice-area.gif',
