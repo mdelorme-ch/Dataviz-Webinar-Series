@@ -71,6 +71,5 @@
       lightboxTitle.innerText = map.title;
       lightboxDescription.innerText = map.description;
     }
-    })
   });
   
