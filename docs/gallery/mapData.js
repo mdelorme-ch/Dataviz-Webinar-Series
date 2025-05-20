@@ -15,7 +15,7 @@ const mapData = [
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Image3.png',
         title: 'Sea Surface Temperature by Chiara Phillips',
         alt: 'Sea Surface Temperature by Chiara Phillips',
-        description: 'Because the earth is a globe, maps have to distort the earth in some way to be presented on a 2D surface. Each of these "ways of distorting" are what we GIS-folk call "map projections". The projection shown here is the Spilhaus Projection, which is handy for seeing all of the world's oceans (ocean?) in one place. I love that this projection forces us to realize how connected the oceans really are. I created this map as part of the 2023 #30daymapchallenge.',
+        description: 'Because the earth is a globe, maps have to distort the earth in some way to be presented on a 2D surface. Each of these "ways of distorting" are what we GIS-folk call "map projections". The projection shown here is the Spilhaus Projection, which is handy for seeing all of the world\'s oceans (ocean?) in one place. I love that this projection forces us to realize how connected the oceans really are. I created this map as part of the 2023 #30daymapchallenge.',
             },
         {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Phytoplankton_Bloom.gif',
