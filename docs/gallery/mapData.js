@@ -59,5 +59,4 @@ const mapData = [
         alt: 'Our ocean habitats in decline by Hans Korving',
         description: 'We highlight Cod, Atlantic Herring and tropical corals, species living in very different parts of the ocean, from surface waters to the seafloor. Each reveals, in its own way, how changing ocean conditions impact marine life. By tracking environmental change in known habitat areas, we expose growing pressures over time. While this analysis simplifies a complex reality, it reveals clear signals of stress on key species. The data come from the Copernicus Marine Service and global habitat maps.',
         },  
-    
    ];
