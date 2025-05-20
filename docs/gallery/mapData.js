@@ -24,7 +24,7 @@ const mapData = [
         description: 'With the arrival of spring in the North Atlantic, longer days, calmer seas and nutriens stirred up by winter storms fuel massive phytoplankton blooms that spark a cascade of ocean life.',
         },   
 {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice-area.gif',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice_area.gif',
         title: 'Arctic Sea Ice Extent by Lisa Kalacheva',
         alt: 'Arctic Sea Ice Extent by Lisa Kalacheva',
         description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
