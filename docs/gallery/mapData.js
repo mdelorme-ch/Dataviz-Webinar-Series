@@ -24,7 +24,7 @@ const mapData = [
         description: 'Because the earth is a globe, maps have to distort the earth in some way to be presented on a 2D surface. Each of these "ways of distorting" are what we GIS-folk call "map projections". The projection shown here is the Spilhaus Projection, which is handy for seeing all of the world\'s oceans (ocean?) in one place. I love that this projection forces us to realize how connected the oceans really are. I created this map as part of the 2023 #30daymapchallenge.',
             },
     {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ocean_habitats.gif',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ocean_habitats2.gif',
         title: 'Our ocean habitats in decline by Hans Korving',
         alt: 'Our ocean habitats in decline by Hans Korving',
         description: 'We highlight Cod, Atlantic Herring and tropical corals, species living in very different parts of the ocean, from surface waters to the seafloor. Each reveals, in its own way, how changing ocean conditions impact marine life. By tracking environmental change in known habitat areas, we expose growing pressures over time. While this analysis simplifies a complex reality, it reveals clear signals of stress on key species. The data come from the Copernicus Marine Service and global habitat maps.',
