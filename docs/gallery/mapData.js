@@ -47,7 +47,12 @@ const mapData = [
         alt: 'Arctic Sea Ice Extent by Lisa Kalacheva',
         description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
         },  
-    
+     {
+        src: 'https://mercatoroceanfr-my.sharepoint.com/:i:/g/personal/mdelorme_mercator-ocean_fr/EYIEJCoo66FChlQwftAtbrgBunG6fza5k7kX4Cc3GGZIdw?e=iTbpN1',
+        title: 'Ocean Velocities by Almar Joling',
+        alt: 'Ocean Velocities by Almar Joling',
+        description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
+        }, 
     
     
    ];
