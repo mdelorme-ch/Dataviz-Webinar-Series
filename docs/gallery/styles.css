@@ -112,7 +112,7 @@ header h2 {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
-    padding: 20px;
+    padding: 30px;
     width: 90%;
     max-width: 1200px;
     background-color: #97C3DD;
