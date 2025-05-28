@@ -59,6 +59,12 @@ const mapData = [
         alt: 'Ocean Currents by Almar Joling',
         description: 'Visualization of ocean currents during various seasons. GPU line generation and compute shader for integration.',
         },
+      {
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv-sea-ice3.mp4',
+        title: 'Sea Ice Thickness by Almar Joling',
+        alt: 'Sea Ice Thickness by Almar Joling',
+        description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
+        },
     {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/marine_heatwave2016.gif',
         title: 'Marine Heatwave cumulative intensity beyond the surface by Shilpa Lal',
@@ -66,24 +72,17 @@ const mapData = [
         description: 'The south western tropical Pacific experienced intense MHW activity in February 2016.The animation shows cumulative intensity of all the Marine Heatwaves events that peaked in February 2016 from surface to 1500m. For more information refer to Dutheil, C., Lal, S., Lengaigne, M., Cravatte, S., Menkès, C., Receveur, A., ... & Meier, H. M. (2024). The massive 2016 marine heatwave in the Southwest Pacific: An “El Niño–Madden-Julian Oscillation” compound event. Science Advances, 10(41), eadp2948.',
         },   
     {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice_area.gif',
-        title: 'Arctic Sea Ice Extent by Lisa Kalacheva',
-        alt: 'Arctic Sea Ice Extent by Lisa Kalacheva',
-        description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
-        },    
-    {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv2.mp4',
         title: 'Ocean Currents by Almar Joling',
         alt: 'Ocean Currents by Almar Joling',
         description: 'Visualization of ocean currents during various seasons. GPU line generation and compute shader for integration.',
         },
-    
     {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv-sea-ice3.mp4',
-        title: 'Sea Ice Thickness by Almar Joling',
-        alt: 'Sea Ice Thickness by Almar Joling',
-        description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
-        },
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/ice_area.gif',
+        title: 'Arctic Sea Ice Extent by Lisa Kalacheva',
+        alt: 'Arctic Sea Ice Extent by Lisa Kalacheva',
+        description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
+        }, 
     {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/3D_marine_heatwave.gif',
         title: 'Vertical Extent of Marine Heatwaves in 2015-2016 by Shilpa Lal',
