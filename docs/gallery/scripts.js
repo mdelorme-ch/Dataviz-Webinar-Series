@@ -101,9 +101,15 @@
       lightboxImg.src = map.src + '?raw=true';
       lightboxImg.alt = map.alt;
       lightboxImg.style.display = 'block';
-    } else if (type === 'video') {
-      lightboxVideo.src = map.src;
-      lightboxVideo.style.display = 'block';
+   } else if (type === 'video') {
+  lightboxVideo.src = map.src;
+  lightboxVideo.style.display = 'block';
+  lightboxVideo.muted = true;           // autoplay autorisé
+  lightboxVideo.autoplay = true;        // démarre dès affichage
+  lightboxVideo.controls = true;        // affiche les boutons
+  lightboxVideo.loop = false;           // facultatif
+  lightboxVideo.playsInline = true;     // pas de plein écran iOS
+  lightboxVideo.play();                 // déclenche la lecture
     } else if (type === 'youtube') {
       const videoId = map.src.split('v=')[1] || map.src.split('/').pop();
       lightboxIframe.src = `https://www.youtube.com/embed/${videoId}`;
