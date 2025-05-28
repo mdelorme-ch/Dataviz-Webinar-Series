@@ -46,7 +46,10 @@
     mediaElement.alt = map.alt || map.title;
     mediaElement.dataset.index = index;
     mediaElement.classList.add('gallery-img');
-    gallery.appendChild(mediaElement);
+    const container = document.createElement('div');
+    container.classList.add('gallery-item');
+    container.appendChild(mediaElement);
+    gallery.appendChild(container);
 
     mediaElement.addEventListener('click', () => {
       lightbox.style.display = 'flex';
