@@ -37,7 +37,6 @@
       mediaElement.muted = true;        // Obligatoire pour autoplay
       mediaElement.loop = true;         // Optionnel : permet de boucler la vidéo
       mediaElement.playsInline = true;  // Important pour mobile
-    }
     } else if (type === 'youtube') {
       mediaElement = document.createElement('img');
       const videoId = map.src.split('v=')[1] || map.src.split('/').pop();
