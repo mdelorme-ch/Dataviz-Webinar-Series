@@ -71,4 +71,22 @@ const mapData = [
         alt: 'Sea Ice Thickness by Almar Joling',
         description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
         },
+    {
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv2.mp4',
+        title: 'Ocean Currents by Almar Joling',
+        alt: 'Ocean Currents by Almar Joling',
+        description: 'Visualization of ocean currents during various seasons. GPU line generation and compute shader for integration.',
+        },
+    {
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv3.mp4',
+        title: 'Ocean Currents by Almar Joling',
+        alt: 'Ocean Currents by Almar Joling',
+        description: 'Visualization of ocean currents during various seasons. GPU line generation and compute shader for integration.',
+        },
+    {
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv-sea-ice3.mp4',
+        title: 'Sea Ice Thickness by Almar Joling',
+        alt: 'Sea Ice Thickness by Almar Joling',
+        description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
+        },
    ];
