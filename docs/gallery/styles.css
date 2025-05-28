@@ -345,16 +345,17 @@ header h2 {
 }
 
 .gallery-item {
-  background-color: #ffffff;
+  background-color: #97C3DD;          /* même fond que la galerie */
   padding: 10px;
-  border: 2px solid #ccc;
+  border: 2px solid #ffffff;          /* bordure blanche */
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-aspect-ratio: 16 / 9;
-width: 100%;
 
+  width: 100%;
+  aspect-ratio: 1 / 1;                /* format carré */
+  display: flex;
+  align-items: center;               /* centre verticalement */
+  justify-content: center;           /* centre horizontalement */
 }
+
