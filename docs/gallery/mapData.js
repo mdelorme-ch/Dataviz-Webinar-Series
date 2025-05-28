@@ -1,22 +1,35 @@
 const mapData = [
     {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Video1.gif',
-        title: 'Global Shipping Traffic Density by Julian Hoffmann Anton',
-        alt: 'Global Shipping Traffic Density by Julian Hoffmann Anton',
-        description: 'This is an experimental visualisation made in Blender with all observed ship movement from 2015-2020, at 500 m resolution from IMF\'s World Seaborne Trade Monitoring System & also NASA\'s Black Marble satellite imagery. Oceans and seas are transparent, creating a unique view that includes the other side of the globe.',
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv1.mp4',
+        title: 'Ocean Currents by Almar Joling',
+        alt: 'Ocean Currents by Almar Joling',
+        description: 'Visualization of ocean currents during various seasons. GPU line generation and compute shader for integration.',
         },
-     {
+       {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Image2.png',
         title: 'Iceland & its glaciers by Julian Hoffmann Anton',
         alt: 'Iceland & its glaciers by Julian Hoffmann Anton',
         description: 'An experimental and creative map of Iceland with its 2019 main glacier contours. Render and viewport displays in Blender.',
             },
     {
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Video1.gif',
+        title: 'Global Shipping Traffic Density by Julian Hoffmann Anton',
+        alt: 'Global Shipping Traffic Density by Julian Hoffmann Anton',
+        description: 'This is an experimental visualisation made in Blender with all observed ship movement from 2015-2020, at 500 m resolution from IMF\'s World Seaborne Trade Monitoring System & also NASA\'s Black Marble satellite imagery. Oceans and seas are transparent, creating a unique view that includes the other side of the globe.',
+        },
+  
+    {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/3D_marine_heatwave.gif',
         title: 'Vertical Extent of Marine Heatwaves in 2015-2016 by Shilpa Lal',
         alt: 'Vertical Extent of Marine Heatwaves in 2015-2016 by Shilpa Lal',
         description: 'This animation shows 3D vertical extent of Marine Heatwaves from 2015 to 2016, stressing on the February 2016 event. This 3D box is for the southwestern tropical Pacific.',
         },  
+     {
+        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv-sea-ice2.mp4',
+        title: 'Sea Ice Thickness by Almar Joling',
+        alt: 'Sea Ice Thickness by Almar Joling',
+        description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
+        },
             {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/Image3.png',
         title: 'Sea Surface Temperature by Chiara Phillips',
@@ -48,12 +61,6 @@ const mapData = [
         description: 'This visualization compares Arctic sea ice in 1993 and 2023. An animated globe shows monthly ice extent for both years, highlighting a longer melt season in 2023. In 1993, melting peaked from August to October; in 2023, it extended from July to November. Additional graphs show decreased ice thickness and a 7–8% drop in December ice area. December was chosen as a representative month, avoiding the extremes of March and September.',
         },  
      {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv1.mp4',
-        title: 'Ocean Currents by Almar Joling',
-        alt: 'Ocean Currents by Almar Joling',
-        description: 'Visualization of ocean currents during various seasons. GPU line generation and compute shader for integration.',
-        },
-  {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/sea_surface_wind.mp4',
         title: 'Sea Surface Wind by Julian Hoffmann Anton',
         alt: 'Sea Surface Wind by Julian Hoffmann Anton',
@@ -65,12 +72,7 @@ const mapData = [
         alt: 'Sea Ice Thickness by Almar Joling',
         description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
         },
-    {
-        src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv-sea-ice2.mp4',
-        title: 'Sea Ice Thickness by Almar Joling',
-        alt: 'Sea Ice Thickness by Almar Joling',
-        description: 'Experiment to visualize changing of ice thickness over time from 1993 to 2019.',
-        },
+   
     {
         src: 'https://mdelorme-ch.github.io/Dataviz-Webinar-Series/gallery/maps/pv2.mp4',
         title: 'Ocean Currents by Almar Joling',
